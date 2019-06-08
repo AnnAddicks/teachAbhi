@@ -12,9 +12,9 @@ public class WelcomeController {
 
   private List<String> getRaces() {
     List<String> races = new ArrayList<>();
-    races.add("Race 1");
-    races.add("race 2");
-    races.add("race 3");
+    races.add("Abhi's Race 1");
+    races.add("Space race 2");
+    races.add("Fastest race EVR!");
 
     return races;
   }
